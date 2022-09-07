@@ -7,14 +7,19 @@ body {
 h1 {
   font-size: 3em;
   margin: 0.25em 0;
+  text-align: center;
+  color: crimson;
+  font-weight: bold;
 }
 
 h3 {
   font-size: 2em;
   margin: 0.25em 0;
+  text-align: center;
 }
 
 p {
   font-size: 1em;
-  color: pink;
+  color: rgb(112, 255, 150);
+  text-align: center;
 }
