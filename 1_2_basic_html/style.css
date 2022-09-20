@@ -18,3 +18,51 @@ h3 {
 p {
   font-size: 1em;
 }
+
+table{
+  width:100%;
+  border:1px solid;
+}
+
+table, th, td{
+  border:1px solid black;
+}
+
+th{
+  font-weight: bold;
+}
+
+.champagne{
+  background-color: lightgoldenrodyellow;
+  color:#540012;
+}
+
+.sauv-blanc{
+  background-color:rgb(254, 254, 120);
+  color:#540012;
+}
+
+.riesling{
+  background-color:yellow;
+  color:#540012;
+}
+
+.pinot-noir{
+  background-color:#B31E33;
+  color:lightgoldenrodyellow;
+
+}
+
+.syrah{
+  background-color:#5D022C;
+  color:lightgoldenrodyellow;
+}
+
+.cab-sauv{
+  background-color:#540012;
+  color:lightgoldenrodyellow;
+}
+
+.rectangle{
+  color:#540012;
+}
